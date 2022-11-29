@@ -12,7 +12,7 @@ This application is used to generate random password bettween 10 and 64 characte
 ## Screenshot
 
 <p align="left">
-  <img src="./assets/Module-5-Challenge.png" height="60%" width="40%" title="Password-Generator">
+  <img src="./assets/images/Module-5-Challenge.png" height="60%" width="40%" title="Password-Generator">
 </p>
 
 ## Link to live version
